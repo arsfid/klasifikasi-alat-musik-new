@@ -44,7 +44,7 @@ st.set_page_config(
 )
 
 st.title("🎵 Klasifikasi Alat Musik")
-st.write("Upload gambar alat musik untuk diprediksi oleh model CNN.")
+st.write("Upload gambar alat musik untuk diprediksi.")
 
 uploaded = st.file_uploader(
     "Upload Gambar",

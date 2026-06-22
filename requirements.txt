@@ -1,5 +1,7 @@
 streamlit
+tensorflow
 numpy
 pillow
 scikit-learn
 h5py
+pandas
